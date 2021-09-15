@@ -1,0 +1,54 @@
+.button{display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: dimgray;
+}
+button{
+border-radius: 40px;
+background: darkblue;
+  color: white;
+  font-size: larger;
+}
+button:hover{background: lightblue
+  
+}
+.IEEE{display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(Images/Item13.png);
+  color: darkblue;
+  flex-direction: column
+}
+p{color: white}
+link{color: yellow}
+alink{color: blue}
+vlink{color: yellowgreen}
+body{background-color: lightgray}
+.Title{display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.a{padding: 30px 143px;
+}
+.b{padding: 30px 143px;
+}
+.c{padding: 30px 153px;
+}
+.d{padding: 30px 135px;
+}
+.e{padding: 30px 130px;
+}
+.f{padding: 30px 140px;
+}
+.footer{display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+  background: black;
+  padding: 30px 5px
+}
+
